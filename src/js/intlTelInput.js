@@ -58,6 +58,8 @@ if (typeof window === 'object') {
     // UPDATE: use a public static field so we can fudge it in the tests
     window.intlTelInputGlobals.windowLoaded = true;
   });
+} else {
+  intlTelInputGlobals.windowLoaded = true;
 }
 
 
