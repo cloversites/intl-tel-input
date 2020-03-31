@@ -1,6 +1,6 @@
 {
-  "name": "intl-tel-input",
-  "version": "16.0.11",
+  "name": "@cloversites/intl-tel-input",
+  "version": "16.0.11-f635ee5",
   "description": "A JavaScript plugin for entering and validating international telephone numbers",
   "keywords": [
     "international",
